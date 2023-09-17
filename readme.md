@@ -1,6 +1,6 @@
 ### Spanish with ChatGPT
 
-1. Week 1: Basics and Basic Phrases
+1. **Week 1: Basics and Basic Phrases**
     1. [Day 1: Introduction to Spanish, The Spanish Alphabet, and Pronunciation](day1)
     2. [Day 2: Basic Greetings (Hola, ¿Cómo estás?, etc.)](day2)
     3. [Day 3: Numbers 1-100](day3)
@@ -12,7 +12,7 @@
         1. [Family](day6/family.md)
         2. [Pronouns and Ser](day6/pronouns_and_verb_Ser.md)
     7. [Day 7: Basic Sentences Structure and Review of Week 1](day7/sentence_structure.md)
-2. Week 2: Introductory Grammar and More Vocabulary
+2. **Week 2: Introductory Grammar and More Vocabulary**
     1. Day 8: Regular Verbs in Present Tense (-ar verbs)
     2. Day 9: Regular Verbs in Present Tense (-er and -ir verbs)
     3. Day 10: Common Adjectives and the verb "Estar" (to be)
