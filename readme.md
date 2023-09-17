@@ -21,7 +21,7 @@
         2. [Questons.](day11/questions.md)
     5. [Day 12: Indirect pronouns.](day12/indirect_pronouns.md)
     6. [Day 13: Colors, Shapes, Sizes](day13/Colors_Shapes_Sizes.md)
-    7. Day 14: Review and Practice Conversations
+    7. [Day 14: Review and Practice Conversations](day14/review.md)
 3. Week 3: Everyday Life and Intermediate Grammar
     1. Day 15: Food and Dining Vocabulary
     2. Day 16: Telling Time and Date
