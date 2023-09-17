@@ -3,7 +3,8 @@
 1. Week 1: Basics and Basic Phrases
     1. [Day 1: Introduction to Spanish, The Spanish Alphabet, and Pronunciation](day1)
     2. [Day 2: Basic Greetings (Hola, ¿Cómo estás?, etc.)](day2)
-    3. Day 3: Numbers 1-100
+    3. [Day 3: Numbers 1-100](day3)
+        1. [Numbers (Números)](day3/numbers.md)
     4. Day 4: Common Phrases for Basic Conversations (Sí, No, Por favor, Gracias)
     5. Day 5: Days of the Week, Months, Seasons
     6. Day 6: Subject Pronouns and the verb "Ser" (to be)

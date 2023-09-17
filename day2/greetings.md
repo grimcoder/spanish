@@ -20,7 +20,7 @@ __Por favor__ - Please
 __Gracias__ - Thank you  
 __De nada__ - You're welcome  
 __Lo siento__ - I'm sorry  
-####Pronunciation Tips:
+#### Pronunciation Tips:
 __"Buenos días"__: 'bwe-nos 'dee-as  
 __"Buenas tardes"__: 'bwe-nas 'tar-des  
 __"Buenas noches"__: 'bwe-nas 'noh-ches  
