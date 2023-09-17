@@ -1,13 +1,13 @@
-###Spanish with ChatGPT
+### Spanish with ChatGPT
 
-Week 1: Basics and Basic Phrases
-Day 1: Introduction to Spanish, The Spanish Alphabet, and Pronunciation
-Day 2: Basic Greetings (Hola, ¿Cómo estás?, etc.)
-Day 3: Numbers 1-100
-Day 4: Common Phrases for Basic Conversations (Sí, No, Por favor, Gracias)
-Day 5: Days of the Week, Months, Seasons
-Day 6: Subject Pronouns and the verb "Ser" (to be)
-Day 7: Basic Sentences Structure and Review of Week 1
+1. Week 1: Basics and Basic Phrases
+    1. Day 1: Introduction to Spanish, The Spanish Alphabet, and Pronunciation
+    2. Day 2: Basic Greetings (Hola, ¿Cómo estás?, etc.)
+    3. Day 3: Numbers 1-100
+    4. Day 4: Common Phrases for Basic Conversations (Sí, No, Por favor, Gracias)
+    5. Day 5: Days of the Week, Months, Seasons
+    6. Day 6: Subject Pronouns and the verb "Ser" (to be)
+    7. Day 7: Basic Sentences Structure and Review of Week 1
 Week 2: Introductory Grammar and More Vocabulary
 Day 8: Regular Verbs in Present Tense (-ar verbs)
 Day 9: Regular Verbs in Present Tense (-er and -ir verbs)
