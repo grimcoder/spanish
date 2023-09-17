@@ -14,13 +14,13 @@
 
 Answers:
 
-1. Tengo los dos mansanas.
-2. Ella tiene los treinta años.
-3. Hay los dias perros en la parka.
-4. Puedo contar hasta cien en Español.
-5. El tiene los veinticinco libros.
-6. Ellas compran los sesenta libros.
-7. Ella necessitan cincuenta lápices.
-8. Hay los quatro estaciones.
-9. El bebe los tres tazas de cafe.
-10. Ella tiene los nuevodies i nuevo problemas.
+1. Tengo dos manzanas.
+2. Ella tiene treinta años.
+3. Hay dias perros en parque.
+4. Puedo contar hasta cien en español.
+5. Él tiene veinticinco libros.
+6. Ellas compran sesenta libros.
+7. Ella necessita cincuenta lápices.
+8. Hay cuatro estaciones.
+9. Él bebe tres tazas de cafe.
+10. Ella tiene nuevodies y nuevo problemas.
