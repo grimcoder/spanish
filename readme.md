@@ -1,8 +1,8 @@
 ### Spanish with ChatGPT
 
 1. Week 1: Basics and Basic Phrases
-    1. Day 1: Introduction to Spanish, The Spanish Alphabet, and Pronunciation
-    2. Day 2: Basic Greetings (Hola, ¿Cómo estás?, etc.)
+    1. [Day 1: Introduction to Spanish, The Spanish Alphabet, and Pronunciation](day1)
+    2. [Day 2: Basic Greetings (Hola, ¿Cómo estás?, etc.)](day2)
     3. Day 3: Numbers 1-100
     4. Day 4: Common Phrases for Basic Conversations (Sí, No, Por favor, Gracias)
     5. Day 5: Days of the Week, Months, Seasons
