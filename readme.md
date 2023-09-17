@@ -15,7 +15,7 @@
 2. **Week 2: Introductory Grammar and More Vocabulary**
     1. [Day 8: Regular Verbs in Present Tense (-ar verbs)](day8/regular_verbs.md)
     2. [Day 9: Regular Verbs in Present Tense (-er and -ir verbs)](day9/Regular_Verbs_in_Present_Tense_(er_and_ir_verbs).md)
-    3. Day 10: Common Adjectives and the verb "Estar" (to be)
+    3. [Day 10: Common Adjectives and the verb "Estar" (to be)](day10/estar.md)
     4. Day 11: Asking Questions (¿Qué?, ¿Cómo?, ¿Dónde?)
     5. Day 12: Family Vocabulary and Sentences
     6. Day 13: Colors, Shapes, Sizes
