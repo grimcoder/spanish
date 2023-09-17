@@ -5,7 +5,8 @@
     2. [Day 2: Basic Greetings (Hola, ¿Cómo estás?, etc.)](day2)
     3. [Day 3: Numbers 1-100](day3)
         1. [Numbers (Números)](day3/numbers.md)
-    4. Day 4: Common Phrases for Basic Conversations (Sí, No, Por favor, Gracias)
+    4. [Day 4: Common Phrases for Basic Conversations (Sí, No, Por favor, Gracias)](day4)
+        1. [Common phrasez](day4/common_phrases.md)
     5. Day 5: Days of the Week, Months, Seasons
     6. Day 6: Subject Pronouns and the verb "Ser" (to be)
     7. Day 7: Basic Sentences Structure and Review of Week 1
