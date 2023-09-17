@@ -37,18 +37,18 @@
 
 )
 4. **Week 4: Advanced Topics and More Practice**
-    1. [Day 22: Past Tense (Preterite)](day22/past_tense.md)
-    2. [Day 23: Past Tense (Imperfect)](day23/past_tense_imperfect.md)
-    3. [Day 24: Future Tense](day24/future.md)
-    4. [Day 25: Conditional Sentences (Si clauses)](day25/conditionals.md)
-    5. [Day 26: Reflexive Verbs](day26/reflexive.md)
-    6. [Day 27: Cultural Phrases and Idioms](day27/cultural.md)
-    7. [Day 28: Final Review and Conversational Practice](day28/review.md)
+    1. [Day 22: Past Tense (Preterite)](day22/past_tense.md)  
+    2. [Day 23: Past Tense (Imperfect)](day23/past_tense_imperfect.md)  
+    3. [Day 24: Future Tense](day24/future.md)  
+    4. [Day 25: Conditional Sentences (Si clauses)](day25/conditionals.md)  
+    5. [Day 26: Reflexive Verbs](day26/reflexive.md)  
+    6. [Day 27: Cultural Phrases and Idioms](day27/cultural.md)  
+    7. [Day 28: Final Review and Conversational Practice](day28/review.md)  
 5. Bonus Days (in case you have a few extra days or want to replace some topics)
-    1. [Bonus Day 1: Medical and Emergency Phrases](bonus/medical.md)
-    2. [Bonus Day 2: Hobbies and Interests Vocabulary](bonus/hobbies.md)
-    3. [Bonus Day 3: Business and Work-related Vocabulary](bonus/business.md)
-    4. [Bonus Day 4: Introduction to Subjunctive Mood](bonus/subjunctive.md)
+    1. [Bonus Day 1: Medical and Emergency Phrases](bonus/medical.md)  
+    2. [Bonus Day 2: Hobbies and Interests Vocabulary](bonus/hobbies.md)  
+    3. [Bonus Day 3: Business and Work-related Vocabulary](bonus/business.md)  
+    4. [Bonus Day 4: Introduction to Subjunctive Mood](bonus/subjunctive.md)  
 
 
 By the end of this month-long course, you should have a solid foundational understanding of Spanish and be able to carry out basic conversations.
