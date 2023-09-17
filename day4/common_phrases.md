@@ -18,7 +18,7 @@ __Sí__ - Yes
 __No__ - No  
 __Tal vez__ - Maybe  
 
-#####Pronunciation Tips:
+##### Pronunciation Tips:
 __¿Cómo te llamas?:__ 'koh-moh teh 'yah-mahs  
 __Mucho gusto:__ 'moo-choh 'goos-toh
 __¿De dónde eres?:__ deh 'dohn-deh 'eh-rehs
