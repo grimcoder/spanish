@@ -1,0 +1,44 @@
+###Spanish with ChatGPT
+
+Week 1: Basics and Basic Phrases
+Day 1: Introduction to Spanish, The Spanish Alphabet, and Pronunciation
+Day 2: Basic Greetings (Hola, ¿Cómo estás?, etc.)
+Day 3: Numbers 1-100
+Day 4: Common Phrases for Basic Conversations (Sí, No, Por favor, Gracias)
+Day 5: Days of the Week, Months, Seasons
+Day 6: Subject Pronouns and the verb "Ser" (to be)
+Day 7: Basic Sentences Structure and Review of Week 1
+Week 2: Introductory Grammar and More Vocabulary
+Day 8: Regular Verbs in Present Tense (-ar verbs)
+Day 9: Regular Verbs in Present Tense (-er and -ir verbs)
+Day 10: Common Adjectives and the verb "Estar" (to be)
+Day 11: Asking Questions (¿Qué?, ¿Cómo?, ¿Dónde?)
+Day 12: Family Vocabulary and Sentences
+Day 13: Colors, Shapes, Sizes
+Day 14: Review and Practice Conversations
+Week 3: Everyday Life and Intermediate Grammar
+Day 15: Food and Dining Vocabulary
+Day 16: Telling Time and Date
+Day 17: Possessives (mi, tu, su, etc.)
+Day 18: Irregular Verbs (Ir, Tener, Hacer)
+Day 19: Shopping Vocabulary and Transactions
+Day 20: Travel and Directions
+Day 21: Review and Mid-course self-assessment
+Week 4: Advanced Topics and More Practice
+Day 22: Past Tense (Preterite)
+Day 23: Past Tense (Imperfect)
+Day 24: Future Tense
+Day 25: Conditional Sentences (Si clauses)
+Day 26: Reflexive Verbs
+Day 27: Cultural Phrases and Idioms
+Day 28: Final Review and Conversational Practice
+Bonus Days (in case you have a few extra days or want to replace some topics)
+Bonus Day 1: Medical and Emergency Phrases
+Bonus Day 2: Hobbies and Interests Vocabulary
+Bonus Day 3: Business and Work-related Vocabulary
+Bonus Day 4: Introduction to Subjunctive Mood
+For each day, try to divide your hour into segments for vocabulary learning, grammar lessons, listening practice, and speaking practice (if possible, find a partner or use language exchange apps).
+
+By the end of this month-long course, you should have a solid foundational understanding of Spanish and be able to carry out basic conversations.
+
+Good luck and happy learning!
