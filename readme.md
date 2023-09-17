@@ -26,14 +26,10 @@
 3. **Week 3: Everyday Life and Intermediate Grammar**
     1. [Day 15: Food and Dining Vocabulary (Día 15: Vocabulario de comida y restaurantes)](day15/food.md)
     2. [Day 16: Telling Time and Date (Día 16: Decir la hora y la fecha](day16/timedate.md)
-
     3. [Day 17: Possessives (mi, tu, su, etc.) (Día 17: Pronombres posesivos (mi, tu, su, etc.))](day17/posessives.md)
     4. [Day 18: Irregular Verbs (Ir, Tener, Hacer) (Día 18: Verbos irregulares (Ir, Tener, Hacer)](day18/irregular_verbs.md)
-
     5. [Day 19: Shopping Vocabulary and Transactions (Día 19: Vocabulario de compras y transacciones](day19/vocabular_compras.md)
-
     6. [Day 20: Travel and Directions (Día 20: Viajes y direcciones)](day20/viajes_direcciones.md)
-
     7. [Day 21: Review and Mid-course self-assessment (Día 21: Revisión y autoevaluación a mitad del curso](day21/review.md)
 
 
