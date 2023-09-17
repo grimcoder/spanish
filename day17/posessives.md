@@ -1,36 +1,42 @@
 
-"Sí, sigamos adelante."
 
-### Day 18: Irregular Verbs (Ir, Tener, Hacer)
+Fantastic, let's move on to Day 17.
 
-Today, we'll focus on some irregular verbs that are commonly used in everyday Spanish: "Ir" (to go), "Tener" (to have), and "Hacer" (to do/make).
+Tu respuesta en español sería:
+
+"Sí."
+
+### Day 17: Possessives (mi, tu, su, etc.)
+
+Today we'll delve into possessive pronouns and adjectives, which indicate ownership or possession. You'll find this useful when talking about family, personal belongings, or relationships.
 
 #### Key Vocabulary:
 
-**Irregular Verbs**
-1. Ir - To go
-   - Yo voy, tú vas, él/ella/usted va, nosotros vamos, vosotros vais, ellos/ellas/ustedes van
-2. Tener - To have
-   - Yo tengo, tú tienes, él/ella/usted tiene, nosotros tenemos, vosotros tenéis, ellos/ellas/ustedes tienen
-3. Hacer - To do/make
-   - Yo hago, tú haces, él/ella/usted hace, nosotros hacemos, vosotros hacéis, ellos/ellas/ustedes hacen
+**Possessive Adjectives**
+1. Mi - My
+2. Tu - Your (informal)
+3. Su - His, Her, Your (formal), Their
+4. Nuestro/a - Our
+5. Vuestro/a - Your (plural, mainly in Spain)
+
+**Example Sentences**
+1. Mi libro - My book
+2. Tu madre - Your mother
+3. Su perro - His/Her/Your dog
+4. Nuestra casa - Our house
+5. Vuestra comida - Your food (plural)
 
 #### Pronunciation Tips:
-- **Ir**: eer
-- **Tener**: teh-nehr
-- **Hacer**: ah-sehr
-
-#### Example Sentences:
-- Voy al mercado. (I'm going to the market.)
-- Tengo una pregunta. (I have a question.)
-- Haces buen trabajo. (You do good work.)
+- **Mi**: mee
+- **Tu**: too
+- **Su**: soo
 
 #### Exercises for Today:
-1. **Listening**: Listen to dialogues where these irregular verbs are commonly used.
-2. **Speaking**: Use these verbs in sentences, focusing on different forms (I go, you go, he/she goes, etc.).
-3. **Writing**: Write down examples of how to use these verbs in different contexts.
-4. **Review**: Revisit the verb forms and example sentences to solidify your understanding.
+1. **Listening**: Listen to dialogues that involve discussions about possessions or ownership.
+2. **Speaking**: Try to describe your possessions, your family members, and relationships using the possessive adjectives.
+3. **Writing**: Write down a few sentences or a paragraph describing what belongs to whom in your family or among your friends.
+4. **Review**: As usual, look back over the new words and phrases, and try to use them in your own sentences.
 
-By the end of Day 18, you should be more comfortable using these essential irregular verbs in conversations and writing.
+By the end of Day 17, you should be comfortable expressing possession and relationships using possessive adjectives.
 
-Do you have any questions, or are you ready to move on to Day 19: Shopping Vocabulary and Transactions?
+Do you have any questions, or are you ready to move on to Day 18: Irregular Verbs (Ir, Tener, Hacer)?

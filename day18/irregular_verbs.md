@@ -1,6 +1,3 @@
-Great! Let's proceed to Day 18.
-
-Tu respuesta en español sería:
 
 "Sí, sigamos adelante."
 
