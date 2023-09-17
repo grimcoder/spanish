@@ -13,7 +13,7 @@
         2. [Pronouns and Ser](day6/pronouns_and_verb_Ser.md)
     7. [Day 7: Basic Sentences Structure and Review of Week 1](day7/sentence_structure.md)
 2. **Week 2: Introductory Grammar and More Vocabulary**
-    1. Day 8: Regular Verbs in Present Tense (-ar verbs)
+    1. [Day 8: Regular Verbs in Present Tense (-ar verbs)](day8/regular_verbs.md)
     2. Day 9: Regular Verbs in Present Tense (-er and -ir verbs)
     3. Day 10: Common Adjectives and the verb "Estar" (to be)
     4. Day 11: Asking Questions (¿Qué?, ¿Cómo?, ¿Dónde?)
