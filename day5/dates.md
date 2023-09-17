@@ -1,7 +1,7 @@
-###Day 5: Telling Time and Basic Questions
+### Day 5: Telling Time and Basic Questions
 Knowing how to tell time and ask basic questions are fundamental skills for everyday life and travel.
 
-####Key Phrases and Vocabulary:
+#### Key Phrases and Vocabulary:
 **Telling Time (Decir la hora)**
 
 * **¿Qué hora es?** - What time is it?
@@ -10,7 +10,7 @@ Knowing how to tell time and ask basic questions are fundamental skills for ever
 * **y cuarto** - fifteen past (e.g., Es la una y cuarto)
 * **y media** - thirty past (e.g., Son las dos y media)
 * **menos cuarto** - quarter to (e.g., Son las tres menos cuarto)
-####Basic Questions (Preguntas básicas)
+#### Basic Questions (Preguntas básicas)
 
 1. **¿Dónde está** [place/object/person]? - Where is [place/object/person]?
 2. **¿Cuánto cuesta?** - How much does it cost?
