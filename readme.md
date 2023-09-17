@@ -19,7 +19,7 @@
     4. [Day 11: Asking Questions (¿Qué?, ¿Cómo?, ¿Dónde?) and Seasonal vocabulary.](day11)
         1. [Seasons, months, days of week.](day11/seasons_days_months.md)
         2. [Questons.](day11/questions.md)
-    5. Day 12: Family Vocabulary and Sentences
+    5. [Day 12: Indirect pronouns.](day12/indirect_pronouns.md)
     6. Day 13: Colors, Shapes, Sizes
     7. Day 14: Review and Practice Conversations
 3. Week 3: Everyday Life and Intermediate Grammar
