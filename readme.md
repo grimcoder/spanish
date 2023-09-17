@@ -9,6 +9,8 @@
         1. [Common phrasez](day4/common_phrases.md)
     5. [Day 5: Days of the Week, Months, Seasons](day5)
     6. [Day 6: Subject Pronouns and the verb "Ser" (to be) and family](day6)
+        1. [Family](day6/family.md)
+        2. [Pronouns and Ser](day6/pronouns_and_verb_Ser.md)
     7. Day 7: Basic Sentences Structure and Review of Week 1
 2. Week 2: Introductory Grammar and More Vocabulary
     1. Day 8: Regular Verbs in Present Tense (-ar verbs)
