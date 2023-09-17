@@ -20,9 +20,9 @@ Knowing how to tell time and ask basic questions are fundamental skills for ever
 6. **¿Cómo?** - How?
 7. **¿Cuál?** - Which?  
 #### Pronunciation Tips:
-**¿Qué hora es?:** ke 'oh-rah ehs
+**¿Qué hora es?:** ke 'oh-rah ehs  
 **Son las tres:** sohn lahs 'trehs  
-####Exercises for Today:
+#### Exercises for Today:
 *** Listening:** Find YouTube videos or audio clips focusing on telling time and basic questions in Spanish. Listen carefully to pronunciation.
 * **Speaking:** Practice saying the phrases for telling time and asking basic questions. Try to simulate scenarios where you would need to use these phrases.
 * **Writing:** Write down the key phrases in your notebook. Create a sample dialogue or situations where you could apply these phrases.
