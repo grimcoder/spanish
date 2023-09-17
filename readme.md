@@ -20,7 +20,7 @@
         1. [Seasons, months, days of week.](day11/seasons_days_months.md)
         2. [Questons.](day11/questions.md)
     5. [Day 12: Indirect pronouns.](day12/indirect_pronouns.md)
-    6. Day 13: Colors, Shapes, Sizes
+    6. [Day 13: Colors, Shapes, Sizes](day13/Colors_Shapes_Sizes.md)
     7. Day 14: Review and Practice Conversations
 3. Week 3: Everyday Life and Intermediate Grammar
     1. Day 15: Food and Dining Vocabulary
