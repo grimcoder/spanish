@@ -13,13 +13,13 @@
 
 #### Answers
 
-1. La sopa esta calde.
-2. Estamos excitado por el viyaje.
-3. Tu eres incorrecto.
-4. Estóy aburrido.
-5. El esta enfermo.
-6. Ellas son enojados.
-7. Ella esta confudida.
-8. Somos cansado.
-9. To estas occupado.
+1. La sopa está fria.
+2. Estamos emocianado por el viaje.
+3. Tú eres incorrecto.
+4. Estoy aburrido.
+5. Él está enfermo.
+6. Ellas están enojados.
+7. Ella está confudida.
+8. Estamos cansado.
+9. Tú estás ocupado.
 10. Estoy asustado.
