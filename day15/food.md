@@ -1,9 +1,3 @@
-Excellent! Let's dive into Day 15.
-
-Tu respuesta en español sería:
-
-"Sí."
-
 ### Day 15: Food and Dining Vocabulary
 
 Today, we'll focus on vocabulary related to food and dining. This is especially useful for social situations, travel, or simply understanding menus at a Spanish restaurant.

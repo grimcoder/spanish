@@ -1,8 +1,3 @@
-Great, let's continue to Day 16.
-
-Tu respuesta en español sería:
-
-"Sí."
 
 ### Day 16: Telling Time and Date
 
