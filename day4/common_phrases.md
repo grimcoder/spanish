@@ -1,7 +1,7 @@
-#### Day 4: Common Phrases
+### Day 4: Common Phrases
 Today, we'll focus on common phrases that are useful in everyday conversation and travel situations.
 
-##### Key Phrases and Vocabulary:
+#### Key Phrases and Vocabulary:
 __¿Cómo te llamas?__ - What's your name? (informal)  
 __¿Cómo se llama usted?__ - What's your name? (formal)  
 __Me llamo BoB__ - My name is Bob  
@@ -18,7 +18,7 @@ __Sí__ - Yes
 __No__ - No  
 __Tal vez__ - Maybe  
 
-##### Pronunciation Tips:
+#### Pronunciation Tips:
 __¿Cómo te llamas?:__ 'koh-moh teh 'yah-mahs  
 __Mucho gusto:__ 'moo-choh 'goos-toh
 __¿De dónde eres?:__ deh 'dohn-deh 'eh-rehs
