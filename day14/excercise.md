@@ -1,5 +1,3 @@
-
-
 ### Day 14: Review of Week 2
 1. They study Spanish every day.
 2. The weather is cold today.
@@ -11,3 +9,7 @@
 8. What is your phone number?
 9. I read the newspaper on Saturdays.
 10. We are watching TV.
+
+# Answers.
+
+
