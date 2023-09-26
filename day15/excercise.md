@@ -11,3 +11,15 @@
 8. I like spicy food.
 9. The waiter is friendly.
 10. She is drinking wine.
+
+**Answers:**
+1. Desayuno a las siete de la mañana
+2. Ella pidió una ensalada
+3. Vamos a cenar fuera esta noche
+4. Él es vegetariano
+5. Sirven café aquí.
+6. El postre es delicioso.
+7. El menú está en español
+8. Me gusta la comida picante.
+9. El mesero es amigable.
+10. Ella está bebiendo vino
