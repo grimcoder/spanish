@@ -11,3 +11,16 @@
 8. We walked five miles.
 9. I read the entire book.
 10. They celebrated their anniversary.
+
+# Answers.
+### Día 22: Tiempo Pasado (Pretérito)
+1. Visité a mis abuelos el fin de semana pasado.
+2. Ella vio la película ayer.
+3. Anoche cocinamos la cena.
+4. Trabajó hasta tarde la semana pasada.
+5. Viajaron a España el año pasado.
+6. Terminaste tu proyecto.
+7. Ella perdió el tren.
+8. Caminamos cinco millas.
+9. Leí el libro completo.
+10. Celebraron su aniversario.
