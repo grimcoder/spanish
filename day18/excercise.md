@@ -10,3 +10,16 @@
 8. He is doing his homework.
 9. They have many questions.
 10. You have to see this.
+
+
+# Answers
+1. Tengo que ir.
+2. Ella tiene un gato.
+3. Ellos van al mercado.
+4. El hace el desayuno.
+5. Tu tienes una buen punto.
+6. Vamos a estudiar.
+7. Tengo un dolor de cabeza
+8. El hace su tarea.
+9. Ellos tienen  muchas preguntas.
+10. Tienes que ver esto. 

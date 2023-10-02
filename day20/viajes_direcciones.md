@@ -1,9 +1,3 @@
-Wonderful, let's dive into Day 20.
-
-Tu respuesta en español sería:
-
-"Sí, pasemos a ese tema."
-
 ### Day 20: Travel and Directions
 
 Today we'll focus on essential vocabulary and phrases you'll need while traveling or asking for directions. This is particularly useful for navigating airports, train stations, and unfamiliar cities.
